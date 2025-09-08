@@ -1,0 +1,9 @@
+#!/bin/bash
+person1="trump"
+person2="musk"
+
+echo "$person1: hey $person2 how are you"
+echo "$person2:hey $person1 i am good how are you doing"
+echo "$person1:i am fine. whats up"
+echo "$person2:nothing. just going to mars. will come with me "
+echo "$person1: sorry yo carry on.once you will come back! i will join you"
