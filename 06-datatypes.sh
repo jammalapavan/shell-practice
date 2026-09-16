@@ -5,8 +5,8 @@ NUMBER2=200
 
 TIMESTAMP=$(date)
 
-echo "display the today and time ::$TIMESTAMP
+echo "display the today and time ::$TIMESTAMP"
 
 SUM=$((NUMBER1+NUMBER2))
 
-echo " sum of $NUMBER1 and $NUMBER2is :: $SUM "
+echo "sum of $NUMBER1 and $NUMBER2is :: $SUM"
