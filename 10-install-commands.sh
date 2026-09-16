@@ -14,7 +14,7 @@ else
 
 fi
 
-dnf install mysql -y 
+dnf install mysql -yjdsbcpijcbcd
 
 if [ $? -eq 0 ]
 then
@@ -24,5 +24,6 @@ then
 else 
  
   echo "package installation is not successful"
+  exit 1 
 
 fi 
