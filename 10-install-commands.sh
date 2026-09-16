@@ -39,3 +39,4 @@ fi
 
  echo "mysql is alredy isntalled ... nothing to do "
 
+fi
