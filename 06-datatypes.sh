@@ -9,4 +9,4 @@ echo "display the today and time ::$TIMESTAMP
 
 SUM=$((NUMBER1+NUMBER2))
 
-echo " NUMBER1+NUMBER:: $SUM
+echo " NUMBER1+NUMBER2:: $SUM "
