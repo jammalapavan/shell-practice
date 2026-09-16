@@ -15,3 +15,14 @@ else
 fi
 
 dnf install mysql -y 
+
+if [ $? -eq 0 ]
+then
+ 
+ echo "package installation is successful "
+
+else 
+ 
+  echo "package installation is not successful"
+
+fi 
