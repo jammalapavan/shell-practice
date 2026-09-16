@@ -2,4 +2,4 @@
  
  MOVIES=("court" "HIT3" "Puspa2" "DC")
 
- echo list of movies are available:: "${MOVIES[@]}"
+echo list of movies are available:: "${MOVIES[#]}"
