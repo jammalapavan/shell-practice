@@ -5,7 +5,7 @@ NUMBER2=200
 
 TIMESTAMP=$(date)
 
-echo "display the today and time ::$TIMESTAMP"
+echo "display the script date and time ::$TIMESTAMP"
 
 SUM=$((NUMBER1+NUMBER2))
 
